@@ -6,7 +6,7 @@ const items = [
   {
     id: 1,
     title: "Pairs Game",
-    img: "https://images.pexels.com/photos/18073372/pexels-photo-18073372/free-photo-of-young-man-sitting-in-a-car-on-a-night-street.jpeg?auto=compress&cs=tinysrgb&w=1600&lazy=load",
+    img: "/pairs.jpg",
     desc: "Using just ReactJS and TailwindCSS, I created a simple pairs game. The game is simple, you choose between 18 or 24 Cards and you have to find all the pairs of cards in the shortest amount of trys possible. The game is responsive and can be played on any device. The game is also hosted on Netlify, so you can play it right now by clicking the button below",
     link: "https://slane-pairs-game.netlify.app/",
     git: "https://github.com/slane1/pairs-game",
@@ -14,7 +14,7 @@ const items = [
   {
     id: 2,
     title: "Weather App",
-    img: "https://images.pexels.com/photos/18023772/pexels-photo-18023772/free-photo-of-close-up-of-a-person-holding-a-wristwatch.jpeg?auto=compress&cs=tinysrgb&w=1600&lazy=load",
+    img: "/weather.png",
     desc: "A very straight forward Weather App using different Endpoints. The app uses the Weather API from Visual Crossing to get the weather data. It will use browser location, location based on User-IP, or user input. The Weather-App is responsive and can be used on any device. It is hosted on Netlify, so you can check it out by clicking the button below.",
     link: "https://slane-weatherapp.netlify.app/",
     git: "https://github.com/slane1/myweatherapp",
@@ -29,7 +29,7 @@ const items = [
   {
     id: 4,
     title: "This Website",
-    img: "https://images.pexels.com/photos/18023772/pexels-photo-18023772/free-photo-of-close-up-of-a-person-holding-a-wristwatch.jpeg?auto=compress&cs=tinysrgb&w=1600&lazy=load",
+    img: "/portfolio.jpg",
     desc: "This Website was created using ReactJS and SCSS with Framer Motion. The Website is responsive and can be used on any device. You are right now visiting the site, but you can check out the Github repository below.",
     git: "https://github.com/slane1/portfolio",
   }
